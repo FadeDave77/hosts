@@ -37,6 +37,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
+0.0.0.0 web-frontend-dot-sc-analytics.appspot.com
+0.0.0.0 www.tm.ak.prd.aadg.trafficmanager.net
+0.0.0.0 presence.teams.microsoft.com
+0.0.0.0 intentional.trafficmanager.net
+0.0.0.0 in.appcenter.ms
+0.0.0.0 mamservice.manage.microsoft.com
+0.0.0.0 mamwelsprodcloudweu.cloudapp.net
+0.0.0.0 firebaselogging-pa.googleapis.com
 
 # End of custom host records.
 # Start StevenBlack
