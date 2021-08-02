@@ -29,7 +29,7 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-0.0.0.0 safebrowsing.google.com
+0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 api.mapbox.com
@@ -45,6 +45,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 mamservice.manage.microsoft.com
 0.0.0.0 mamwelsprodcloudweu.cloudapp.net
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 clients.l.google.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 loc.sc-jpl.com
+0.0.0.0 storage.googleapis.com
+0.0.0.0 snapchat-proxy.appspot.com
 
 # End of custom host records.
 # Start StevenBlack
