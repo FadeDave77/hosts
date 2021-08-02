@@ -29,6 +29,14 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 api.mapbox.com
+0.0.0.0 snap.api.mapbox.com
+0.0.0.0 auditrecording-pa.googleapis.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 
 # End of custom host records.
 # Start StevenBlack
