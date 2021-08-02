@@ -57,7 +57,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 pica.aeonlucid.com
-0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
