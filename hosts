@@ -60,6 +60,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
+0.0.0.0 z-p4-graph.facebook.com
+0.0.0.0 z-p3-graph.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 api.flightproxy.teams.microsoft.com
+0.0.0.0 flightproxy-ukso-07-teams.cloudapp.net
+0.0.0.0 flightproxy-frce-07-teams.cloudapp.net
+0.0.0.0 mrodevicemgr.officeapps.live.com
+0.0.0.0 prod.mrodevicemgr.live.com.akadns.net
+0.0.0.0 edge-web-split-geo.dual-gslb.spotify.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 edge-web.dual-gslb.spotify.com
+0.0.0.0 edge-web-gew.dual-gslb.spotify.com
+0.0.0.0 feelinsonice.l.google.com
+0.0.0.0 feelinsonice-mvm.l.google.com
+0.0.0.0 snap-storage-cdn.l.google.com
 
 # End of custom host records.
 # Start StevenBlack
