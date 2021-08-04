@@ -60,8 +60,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
-0.0.0.0 z-p4-graph.facebook.com
-0.0.0.0 z-p3-graph.facebook.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 api.flightproxy.teams.microsoft.com
 0.0.0.0 flightproxy-ukso-07-teams.cloudapp.net
