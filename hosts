@@ -47,14 +47,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 clients.l.google.com
-0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 loc.sc-jpl.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 snapchat-proxy.appspot.com
 0.0.0.0 cognac-prod.appspot.com
 0.0.0.0 geofilters-api.snapchat.com
-0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 pica.aeonlucid.com
 0.0.0.0 gcp.api.snapchat.com
