@@ -64,26 +64,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 mrodevicemgr.officeapps.live.com
 0.0.0.0 prod.mrodevicemgr.live.com.akadns.net
 0.0.0.0 edge-web-split-geo.dual-gslb.spotify.com
-0.0.0.0 api-partner.spotify.com
 0.0.0.0 edge-web.dual-gslb.spotify.com
 0.0.0.0 edge-web-gew.dual-gslb.spotify.com
 0.0.0.0 feelinsonice.l.google.com
 0.0.0.0 feelinsonice-mvm.l.google.com
 0.0.0.0 snap-storage-cdn.l.google.com
-#21/08/06
-0.0.0.0 ads-fa.spotify.com
 0.0.0.0 analytics.spotify.com
-0.0.0.0 audio2.spotify.com
-0.0.0.0 content.bitsontherun.com
 0.0.0.0 crashdump.spotify.com
-0.0.0.0 d2gi7ultltnc2u.cloudfront.net
-0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 log.spotify.com
-0.0.0.0 omaze.com
-0.0.0.0 www.omaze.com
-0.0.0.0 redirector.gvt1.com
-0.0.0.0 v.jwpcdn.com
-0.0.0.0 weblb-wg.gslb.spotify.com
 
 # End of custom host records.
 # Start StevenBlack
