@@ -32,8 +32,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
-0.0.0.0 api.mapbox.com
-0.0.0.0 snap.api.mapbox.com
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
@@ -55,8 +53,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geofilters-api.snapchat.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 pica.aeonlucid.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.fbpigeon.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 api.flightproxy.teams.microsoft.com
 0.0.0.0 flightproxy-ukso-07-teams.cloudapp.net
