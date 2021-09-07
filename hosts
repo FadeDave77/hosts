@@ -69,13 +69,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.spotify.com
 0.0.0.0 hwid-dre.platform.hicloud.com
 0.0.0.0 hag-dre.ai.hicloud.com
-0.0.0.0 upfile7.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 operationposition-dre.things.dbankcloud.com
 0.0.0.0 messagecenter-dre.things.hicloud.com
 0.0.0.0 achievement-dre.things.hicloud.com
 0.0.0.0 configserver-dre.platform.hicloud.com
 0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.cn
 
 # End of custom host records.
 # Start StevenBlack
