@@ -47,7 +47,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clients.l.google.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 loc.sc-jpl.com
-0.0.0.0 storage.googleapis.com
 0.0.0.0 snapchat-proxy.appspot.com
 0.0.0.0 cognac-prod.appspot.com
 0.0.0.0 geofilters-api.snapchat.com
@@ -68,6 +67,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.spotify.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 log.spotify.com
+0.0.0.0 hwid-dre.platform.hicloud.com
+0.0.0.0 hag-dre.ai.hicloud.com
+0.0.0.0 upfile7.hicloud.com
+0.0.0.0 servicesupport2.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
 
 # End of custom host records.
 # Start StevenBlack
