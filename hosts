@@ -76,7 +76,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 configserver-dre.platform.hicloud.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 grs.dbankcloud.com
-0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.cn
 
 # End of custom host records.
 # Start StevenBlack
