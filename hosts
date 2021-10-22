@@ -1,4 +1,4 @@
-# Title: StevenBlack/hosts
+# Title: FadeDave77/hosts
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
@@ -6,9 +6,9 @@
 # Date: 20 October 2021 00:17:26 (UTC)
 # Number of unique domains: 93,720
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/FadeDave77/hosts/master/hosts
+# Project home page: https://github.com/FadeDave77/hosts
+# Project releases: https://github.com/FadeDave77/hosts/releases
 #
 # ===============================================================
 
@@ -28,6 +28,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
+
+0.0.0.0 somedomainthatyouhate.tld
+
+# End of custom host records.
+
+
+# Start FadeDave77
+
+#=====================================
+# Title: Hosts contributed by fadedave
+# https://fadedave.com
 
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
@@ -85,7 +96,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushtrs7.push.hicloud.com
 0.0.0.0 sns7.hicloud.com
 0.0.0.0 sportsuggest-dre.things.hicloud.com
-# End of custom host records.
+0.0.0.0 p3a.brave.com
+0.0.0.0 rewards.brave.com
+0.0.0.0 api.rewards.brave.com
+0.0.0.0 grant.rewards.brave.com
+0.0.0.0 variations.brave.com
+0.0.0.0 laptop-updates.brave.com
+
+# End FadeDave77
+
+
 # Start StevenBlack
 
 #=====================================
