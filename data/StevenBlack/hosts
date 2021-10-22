@@ -1311,7 +1311,6 @@
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 gld.samsungosp.com
-0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 www.saumweb.com
 0.0.0.0 udm.scorecardresearch.com
@@ -1912,3 +1911,27 @@
 0.0.0.0 zer9g.com
 0.0.0.0 b69kq.com
 0.0.0.0 down.sqlnetcat.com
+
+# Added August 8, 2021 see https://github.com/StevenBlack/hosts/issues/1725
+0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 logssug.ucweb.com
+0.0.0.0 attr.union.ucweb.com
+
+# Added August 11, 2021
+0.0.0.0 www.luckycrush.live
+
+# Added September 17, 2021
+0.0.0.0 mmsotk.com
+
+# Added September 24, 2021 see https://github.com/StevenBlack/hosts/issues/1764
+0.0.0.0 discord-app.net
+
+# Added October 2, 2021 see https://github.com/StevenBlack/hosts/issues/1770
+0.0.0.0 sk.mplmnt.io
+
+# Added October 17, 2021 see https://github.com/StevenBlack/hosts/issues/1752
+0.0.0.0 org-upgrade.com
+0.0.0.0 www.org-upgrade.com
+
+# Added October 19, 2021
+0.0.0.0 www.abc.co.bz
