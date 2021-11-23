@@ -64,7 +64,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 pica.aeonlucid.com
 0.0.0.0 b-graph.facebook.com
-0.0.0.0 api.flightproxy.teams.microsoft.com
 0.0.0.0 flightproxy-ukso-07-teams.cloudapp.net
 0.0.0.0 flightproxy-frce-07-teams.cloudapp.net
 0.0.0.0 mrodevicemgr.officeapps.live.com
