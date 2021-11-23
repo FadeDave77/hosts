@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 19 Oct 2021 15:56:45 GMT
-# entries:        3676
+# last updated:   Thu, 18 Nov 2021 11:40:44 GMT
+# entries:        3689
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,13 +11,14 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 25 Oct 2001 00:00:00
+# start date:    Mon, 26 Nov 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
+0.0.0.0 1link2020.com
 0.0.0.0 1rx.io
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -131,7 +132,6 @@
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
 0.0.0.0 ad.choiceradio.com
-0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.domainfactory.de
@@ -150,6 +150,7 @@
 0.0.0.0 ad.jacotei.com.br
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 ad.keenspace.com
+0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.media-servers.net
@@ -160,6 +161,7 @@
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.nachtagenten.de
+0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 ad.nwt.cz
@@ -502,12 +504,12 @@
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.gamecity.net
-0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamigo.de
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gaming1.com
 0.0.0.0 ads.gaypoint.hu
+0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.gld.dk
 0.0.0.0 ads.gmodules.com
@@ -545,11 +547,9 @@
 0.0.0.0 ads.itv.com
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
-0.0.0.0 ads.jiwire.com
 0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.jpost.com
-0.0.0.0 ads.junctionbox.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.kabooaffiliates.com
 0.0.0.0 ads.kaktuz.net
@@ -644,6 +644,7 @@
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.revjet.com
+0.0.0.0 ads.samsung.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.scifi.com
@@ -799,7 +800,6 @@
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.echdk.pl
-0.0.0.0 adserver.ekokatu.com
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
 0.0.0.0 adserver.gilligan.tech
@@ -1053,7 +1053,6 @@
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.myfinance.com
-0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -1223,7 +1222,6 @@
 0.0.0.0 bannertesting.com
 0.0.0.0 bannertrack.net
 0.0.0.0 bannery.cz
-0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bannieres.wdmedia.net
 0.0.0.0 bans.bride.ru
 0.0.0.0 barbarousnerve.com
@@ -1314,6 +1312,7 @@
 0.0.0.0 braincash.com
 0.0.0.0 brand-display.com
 0.0.0.0 brandreachsys.com
+0.0.0.0 breadbalance.com
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
@@ -1340,6 +1339,7 @@
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
@@ -1535,6 +1535,7 @@
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
+0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
@@ -1598,7 +1599,6 @@
 0.0.0.0 dancemistake.com
 0.0.0.0 dapper.net
 0.0.0.0 dapperfloor.com
-0.0.0.0 dashbida.com
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
 0.0.0.0 data.namesakeoscilloscopemarquis.com
@@ -1611,6 +1611,7 @@
 0.0.0.0 debonairway.com
 0.0.0.0 debtbusterloans.com
 0.0.0.0 decenterads.com
+0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
@@ -1830,6 +1831,9 @@
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
+0.0.0.0 fireworkadservices.com
+0.0.0.0 fireworkanalytics.com
+0.0.0.0 fireworks-advertising.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 fixel.ai
@@ -1839,6 +1843,7 @@
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flimsycircle.com
+0.0.0.0 flimsythought.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
@@ -1869,6 +1874,7 @@
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
+0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
@@ -1882,6 +1888,8 @@
 0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
+0.0.0.0 fwcdn1.com
+0.0.0.0 fwcdn2.com
 0.0.0.0 fxstyle.net
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
@@ -1893,6 +1901,7 @@
 0.0.0.0 gamesites200.com
 0.0.0.0 gammamaximum.com
 0.0.0.0 gaug.es
+0.0.0.0 gavvia.com
 0.0.0.0 gearwom.de
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.digitalpoint.com
@@ -1928,6 +1937,7 @@
 0.0.0.0 gothamads.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
+0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 graizoah.com
 0.0.0.0 grandioseguide.com
@@ -1939,6 +1949,7 @@
 0.0.0.0 gscontxt.net
 0.0.0.0 gtop100.com
 0.0.0.0 guardedschool.com
+0.0.0.0 guffawdecipher.com
 0.0.0.0 gunggo.com
 0.0.0.0 h-bid.com
 0.0.0.0 h0.t.hubspotemail.net
@@ -1994,6 +2005,7 @@
 0.0.0.0 hittail.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
+0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
@@ -2054,7 +2066,6 @@
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 immensehoney.com
-0.0.0.0 imonitor.nethost.cz
 0.0.0.0 imonomy.com
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
@@ -2119,6 +2130,7 @@
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
 0.0.0.0 itsptp.com
+0.0.0.0 iubzka.online
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfnzgb.com
@@ -2186,12 +2198,15 @@
 0.0.0.0 leady.com
 0.0.0.0 leadzupc.com
 0.0.0.0 leaplunchroom.com
+0.0.0.0 leftliquid.com
 0.0.0.0 lemmatechnologies.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levelrate.de
 0.0.0.0 lever-analytics.com
 0.0.0.0 lfeeder.com
 0.0.0.0 lfstmedia.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 lgsmartad.com
 0.0.0.0 li.alibris.com
 0.0.0.0 li.azstarnet.com
 0.0.0.0 li.dailycaller.com
@@ -2263,6 +2278,7 @@
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
+0.0.0.0 lucklayed.info
 0.0.0.0 luckyorange.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
@@ -2576,6 +2592,7 @@
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
+0.0.0.0 optnx.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 outbrain.com
@@ -2707,7 +2724,6 @@
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
-0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
 0.0.0.0 producecopy.com
 0.0.0.0 producer.getwisdom.io
@@ -2951,7 +2967,6 @@
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
-0.0.0.0 scoobyads.com
 0.0.0.0 scopelight.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scratch2cash.com
@@ -3113,6 +3128,7 @@
 0.0.0.0 stackadapt.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
+0.0.0.0 stakingsmile.com
 0.0.0.0 stalesummer.com
 0.0.0.0 standingnest.com
 0.0.0.0 starffa.com
@@ -3247,7 +3263,6 @@
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
-0.0.0.0 techclicks.net
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
@@ -3315,7 +3330,6 @@
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu
-0.0.0.0 toplistcity.com
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
 0.0.0.0 topsir.com
@@ -3445,7 +3459,6 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
-0.0.0.0 tvmtracker.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
@@ -3456,7 +3469,6 @@
 0.0.0.0 udkcrj.com
 0.0.0.0 udncoeln.com
 0.0.0.0 uib.ff.avast.com
-0.0.0.0 ukbanners.com
 0.0.0.0 ukoffzeh.com
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultramercial.com
@@ -3471,6 +3483,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwrittenspot.com
+0.0.0.0 uowbqce.surf
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 uramog.com
 0.0.0.0 urlcash.net
