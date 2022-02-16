@@ -41,7 +41,6 @@ ff02::3 ip6-allhosts
 # https://fadedave.com
 
 0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
