@@ -4808,9 +4808,6 @@
 # [getui.net]
 127.0.0.1 sdk.open.talk.getui.net
 
-# [gigya.com]
-127.0.0.1 socialize.eu1.gigya.com
-
 # [gimbal.com]
 127.0.0.1 analytics-server.gimbal.com
 127.0.0.1 communicate.gimbal.com
@@ -7969,10 +7966,6 @@
 
 # [performancehorizon.com]
 127.0.0.1 performancehorizon.com
-
-# [perimeterx.net]
-127.0.0.1 collector-pxuarm9b04.perimeterx.net
-127.0.0.1 px-conf.perimeterx.net
 
 # [period-calendar.com]
 127.0.0.1 ad.period-calendar.com
