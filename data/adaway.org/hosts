@@ -7468,7 +7468,6 @@
 127.0.0.1 mpnrs.com
 
 # [mradx.net]
-127.0.0.1 r.mradx.net
 127.0.0.1 r0.mradx.net
 
 # [mrtnsvr.com]
@@ -8552,9 +8551,6 @@
 
 # [qgraph.io]
 127.0.0.1 sdk.api.qgraph.io
-
-# [qikify.com]
-127.0.0.1 sdk.qikify.com
 
 # [qq.com]
 127.0.0.1 lcsdk.3g.qq.com
