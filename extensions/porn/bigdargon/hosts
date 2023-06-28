@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 03 Jun 2023 21:24 UTC+7
-# Version: 2306032124
-# Blocked: 3,406 domains
+# Last modified: 27 Jun 2023 14:52 UTC+7
+# Version: 2306271452
+# Blocked: 3,420 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -138,6 +138,7 @@
 0.0.0.0 cavekiemdinh.xyz
 0.0.0.0 caysex.net
 0.0.0.0 cbhentai.one
+0.0.0.0 cbhentai.xyz
 0.0.0.0 cd-taxi.com
 0.0.0.0 cdn.hencb.top
 0.0.0.0 cdn.hentaicb.xyz
@@ -153,8 +154,11 @@
 0.0.0.0 checkerviet.one
 0.0.0.0 checkgai.org
 0.0.0.0 checkgaigoi.blogspot.com
+0.0.0.0 checkgaigoi.cc
 0.0.0.0 checkgaigoi.co
 0.0.0.0 checkgaigoi.info
+0.0.0.0 checkgaigoi.one
+0.0.0.0 checkgaigoi.tv
 0.0.0.0 checkgaigoi.us
 0.0.0.0 checkgaigoi.xyz
 0.0.0.0 checkgaiviet.com
@@ -676,6 +680,7 @@
 0.0.0.0 hencb.top
 0.0.0.0 henho.cucvui.com
 0.0.0.0 henho.us
+0.0.0.0 henho.vip
 0.0.0.0 henho247.xyz
 0.0.0.0 henho24az.xyz
 0.0.0.0 henho24h.com
@@ -701,6 +706,7 @@
 0.0.0.0 hentaivl.vip
 0.0.0.0 hentaivlv.com
 0.0.0.0 hentaivlz.com
+0.0.0.0 hentaivn.autos
 0.0.0.0 hentaivn.cc
 0.0.0.0 hentaivn.com
 0.0.0.0 hentaivn.de
@@ -765,6 +771,7 @@
 0.0.0.0 heovl.net
 0.0.0.0 heovl.tv
 0.0.0.0 heovl1.com
+0.0.0.0 heovl1.net
 0.0.0.0 heozz.net
 0.0.0.0 heyzo.pro
 0.0.0.0 hhentai.net
@@ -850,6 +857,7 @@
 0.0.0.0 javhd.contact
 0.0.0.0 javhd.im
 0.0.0.0 javhd.lol
+0.0.0.0 javhd.moe
 0.0.0.0 javhd.news
 0.0.0.0 javhd.ninja
 0.0.0.0 javhd.page
@@ -1099,8 +1107,10 @@
 0.0.0.0 mekiep.pro
 0.0.0.0 mephimsex.com
 0.0.0.0 mesex.pro
+0.0.0.0 mhuu6.wiki
 0.0.0.0 migraine-aura.com
 0.0.0.0 milive.fun
+0.0.0.0 minosa68.com
 0.0.0.0 miuxinh.art
 0.0.0.0 mlem.live
 0.0.0.0 mm.mm1cloud.com
@@ -2581,6 +2591,7 @@
 0.0.0.0 thiendia.club
 0.0.0.0 thiendia.com
 0.0.0.0 thiendia.uk
+0.0.0.0 thiendia1.com
 0.0.0.0 thiendia88.org
 0.0.0.0 thiendia99.co
 0.0.0.0 thiendia99.net
@@ -2893,6 +2904,7 @@
 0.0.0.0 vlxx.media
 0.0.0.0 vlxx.men
 0.0.0.0 vlxx.mobi
+0.0.0.0 vlxx.moe
 0.0.0.0 vlxx.network
 0.0.0.0 vlxx.pw
 0.0.0.0 vlxx.rocks
@@ -2998,6 +3010,7 @@
 0.0.0.0 vuianime.tv
 0.0.0.0 vuighe.net
 0.0.0.0 vuisex.net
+0.0.0.0 vznalvek.com
 0.0.0.0 w1.sextop1.life
 0.0.0.0 wap3xdep.sextgem.com
 0.0.0.0 wapsex.wordpress.com
@@ -3281,6 +3294,7 @@
 0.0.0.0 xvideos21.xde.mx
 0.0.0.0 xvideos3x.net
 0.0.0.0 xvideos888.net
+0.0.0.0 xvideos98.pro
 0.0.0.0 xvideos98.xxx
 0.0.0.0 xvideosss.com
 0.0.0.0 xvideosviet.co
