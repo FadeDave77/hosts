@@ -96,6 +96,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.rewards.brave.com
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 variations.brave.com
+0.0.0.0 telem-edge.smartscreen.microsoft.com
+0.0.0.0 dl-edge.smartscreen.microsoft.com
+0.0.0.0 nav-edge.smartscreen.microsoft.com
+0.0.0.0 app-edge.smartscreen.microsoft.com
+0.0.0.0 safebrowsing-cache.google.com
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 sb-ssl.google.com
 
 # End imol.ai
 
